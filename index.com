@@ -115,7 +115,7 @@
                     <div class="bg-white/50 p-8 rounded-lg shadow-sm border border-[#EAE0D5]">
                         <div id="principle-panel" class="concept-panel">
                             <h3 class="text-2xl font-bold mb-4 text-[#6D5D4D]">Principle: God invites our honest lament as a pathway to deeper trust.</h3>
-                            <p class="text-lg leading-relaxed">The raw anguish in David's fourfold cry of "How long?" is not the opposite of faith; it is the language of a relationship built on **trust**. David feels safe enough with God to be brutally honest about his feelings. He brings his pain directly to the only One he truly believes can help him. God desires a relationship with us that is real, not religious. He makes space for our questions and despair, knowing that bringing our brokenness to Him is the very first step toward renewing our **trust**.</p>
+                            <p class="text-lg leading-relaxed">The raw anguish in David's fourfold cry of "How long?" is not the opposite of faith; it is the language of a relationship built on trust. David feels safe enough with God to be brutally honest about his feelings. He brings his pain directly to the only One he truly believes can help him. God desires a relationship with us that is real, not religious. He makes space for our questions and despair, knowing that bringing our brokenness to Him is the very first step toward renewing our **trust**.</p>
                             <div class="mt-6 pt-6 border-t border-[#EAE0D5]">
                                 <h4 class="text-xl font-semibold mb-2 text-[#6D5D4D]">Make it Personal</h4>
                                 <p class="text-lg text-[#8A7968] mb-4">What specific "How long?" questions are weighing on your heart today that you need to honestly bring to God?</p>
@@ -124,7 +124,7 @@
                         </div>
                         <div id="problem-panel" class="concept-panel" style="display:none;">
                             <h3 class="text-2xl font-bold mb-4 text-[#6D5D4D]">Problem: In suffering, our hearts are prone to a crisis of trust, leading us to rely on ourselves.</h3>
-                            <p class="text-lg leading-relaxed">The problem emerges when our feelings of being forgotten sever our active **trust** in God. David describes this: "How long must I take counsel in my soul...?" (v. 2). When we stop **trusting** God, we turn inward. We place our **trust** in our own limited wisdom and strength. This self-reliant **trust** is an idol that always fails, leading only to deeper sorrow. The core sin is misplacing our **trust** from the faithful Creator onto our fickle selves.</p>
+                            <p class="text-lg leading-relaxed">The problem emerges when our feelings of being forgotten sever our active trust in God. David describes this: "How long must I take counsel in my soul...?" (v. 2). When we stop **trusting** God, we turn inward. We place our **trust** in our own limited wisdom and strength. This self-reliant **trust** is an idol that always fails, leading only to deeper sorrow. The core sin is misplacing our **trust** from the faithful Creator onto our fickle selves.</p>
                              <div class="mt-6 pt-6 border-t border-[#EAE0D5]">
                                 <h4 class="text-xl font-semibold mb-2 text-[#6D5D4D]">Make it Personal</h4>
                                 <p class="text-lg text-[#8A7968] mb-4">In what areas are you 'taking counsel in your own soul' instead of trusting God's steadfast love?</p>
@@ -133,7 +133,7 @@
                         </div>
                         <div id="gospel-panel" class="concept-panel" style="display:none;">
                             <h3 class="text-2xl font-bold mb-4 text-[#6D5D4D]">Gospel: Jesus demonstrates perfect trust in the Father on our behalf, even through the ultimate trial.</h3>
-                            <p class="text-lg leading-relaxed">The ultimate crisis of faith was borne by Jesus on the cross. Crying out, "My God, my God, why have you forsaken me?", Jesus faced the terror of divine abandonment that we fear. Yet, in His final breath, He declared, "Father, into your hands I commit my spirit!" (Luke 23:46). This was the ultimate act of **trust**. He perfectly **trusted** the Father's plan even through death itself. Here is the gospel exchange: Jesus's perfect, unwavering **trust** is credited to us, and our broken, faltering **trust** was nailed to the cross with Him. Because He **trusted** the Father for us, we can begin to truly **trust** God as our loving Father, no matter what our circumstances scream at us.</p>
+                            <p class="text-lg leading-relaxed">The ultimate crisis of faith was borne by Jesus on the cross. Crying out, "My God, my God, why have you forsaken me?", Jesus faced the terror of divine abandonment that we fear. Yet, in His final breath, He declared, "Father, into your hands I commit my spirit!" (Luke 23:46). This was the ultimate act of trust. He perfectly trusted the Father's plan even through death itself. Here is the gospel exchange: Jesus's perfect, unwavering **trust** is credited to us, and our broken, faltering trust was nailed to the cross with Him. Because He trusted the Father for us, we can begin to truly trust God as our loving Father, no matter what our circumstances scream at us.</p>
                              <div class="mt-6 pt-6 border-t border-[#EAE0D5]">
                                 <h4 class="text-xl font-semibold mb-2 text-[#6D5D4D]">Make it Personal</h4>
                                 <p class="text-lg text-[#8A7968] mb-4">How does knowing Jesus perfectly trusted the Father for you, even in abandonment, give you confidence to trust God now?</p>
@@ -142,7 +142,7 @@
                         </div>
                         <div id="response-panel" class="concept-panel" style="display:none;">
                             <h3 class="text-2xl font-bold mb-4 text-[#6D5D4D]">Response: In union with Christ, we are empowered by the Spirit to actively choose trust over despair.</h3>
-                            <p class="text-lg leading-relaxed mb-4">The dramatic pivot in verse 5—"But I have **trusted** in your steadfast love"—is the Spirit-empowered response of a heart secured by the gospel. This is not a change in feelings but a declaration of faith. Because of Jesus's finished work, we are no longer left alone to "take counsel" in our souls. Rather than **trusting** our sorrow, we can, by the Spirit's power, choose to place our **trust** in God's steadfast love. This is a gift, not a duty. We can sing of God's goodness not because we feel it's true, but because we **trust** the One who has already secured our salvation.</p>
+                            <p class="text-lg leading-relaxed mb-4">The dramatic pivot in verse 5—"But I have **trusted** in your steadfast love"—is the Spirit-empowered response of a heart secured by the gospel. This is not a change in feelings but a declaration of faith. Because of Jesus's finished work, we are no longer left alone to "take counsel" in our souls. Rather than trusting our sorrow, we can, by the Spirit's power, choose to place our trust in God's steadfast love. This is a gift, not a duty. We can sing of God's goodness not because we feel it's true, but because we trust the One who has already secured our salvation.</p>
                              <div class="mt-6 pt-6 border-t border-[#EAE0D5]">
                                 <h4 class="text-xl font-semibold mb-2 text-[#6D5D4D]">Make it Personal</h4>
                                 <p class="text-lg text-[#8A7968] mb-4">What would it look like, practically, to shift from trusting your feelings of sorrow to trusting in God's steadfast love in your current situation?</p>
@@ -160,7 +160,7 @@
                         <h3 class="text-2xl font-bold mb-4 text-[#6D5D4D] flex items-center">
                             A Prayer from Your Reflections
                         </h3>
-                        <p class="text-lg text-[#8A7968] mb-4">After reflecting in the sections above, click the button below. Gemini will compile your personal thoughts into a single, comprehensive prayer rooted in the hope of Psalm 13.</p>
+                        <p class="text-lg text-[#8A7968] mb-4">After reflecting in the sections above, click the button below to compile your personal thoughts into a single, comprehensive prayer rooted in the hope of Psalm 13.</p>
                         <button id="compile-prayer-btn" class="w-full mb-4 px-6 py-3 font-semibold rounded-full transition-colors duration-300 bg-[#D3A578] text-white hover:bg-[#c59461]">
                             ✨ Compile My Prayer from My Reflections
                         </button>
